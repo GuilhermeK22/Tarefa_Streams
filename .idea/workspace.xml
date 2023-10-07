@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="201ff464-0bd6-4551-8fb3-1c6af8ef8e80" name="Changes" comment="Tarefa Modulo 22">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+    <list default="true" id="201ff464-0bd6-4551-8fb3-1c6af8ef8e80" name="Changes" comment="Tarefa Modulo 22 atualizada">
+      <change afterPath="$PROJECT_DIR$/src/AppTeste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListaPessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaNomes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Teste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,15 +30,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/guilh/Projetos ebac/Módulo 22/Tarefa_Streams/Tarefa_Streams",
-    "onboarding.tips.debug.path": "C:/Users/guilh/Projetos ebac/Módulo 22/Tarefa_Streams/Tarefa_Streams/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/guilh/Projetos ebac/Módulo 22/Tarefa_Streams/Tarefa_Streams&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/guilh/Projetos ebac/Módulo 22/Tarefa_Streams/Tarefa_Streams/src/Main.java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Teste1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Teste1" />
+      <module name="Tarefa_Streams" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Teste1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,12 +69,20 @@
       <option name="project" value="LOCAL" />
       <updated>1696545935662</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tarefa Modulo 22 atualizada">
+      <created>1696552080041</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696552080041</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tarefa Modulo 22" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarefa Modulo 22" />
+    <MESSAGE value="Tarefa Modulo 22 atualizada" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarefa Modulo 22 atualizada" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
