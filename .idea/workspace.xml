@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="201ff464-0bd6-4551-8fb3-1c6af8ef8e80" name="Changes" comment="Tarefa Modulo 22 atualizada versão 01" />
+    <list default="true" id="201ff464-0bd6-4551-8fb3-1c6af8ef8e80" name="Changes" comment="Tarefa Modulo 22 atualizada versão 01">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppTeste.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696643865337</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tarefa Modulo 22 atualizada versão 01">
+      <created>1696688459851</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696688459851</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

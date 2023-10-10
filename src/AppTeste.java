@@ -28,12 +28,11 @@ public class AppTeste {
         for (ListaNomes pessoa : pessoas) {
             System.out.println(pessoa.getNome() + " - " + pessoa.getGenero());
         }
-        System.out.println("\nLista de pessoas do gênero femenino:");
+        System.out.println("\nLista de pessoas do gênero feminino:");
         List<ListaNomes> result = pessoas.stream()
                 .filter(listaNomes -> listaNomes.getGenero().equals("F"))
                 .collect(Collectors.toList());
         result.forEach(listaNomes -> System.out.println(listaNomes.getNome()));
 
     }
-
 }
